@@ -1,0 +1,20 @@
+﻿{
+  "RaidBot": {
+    "Discord": {
+      "PlayerRaidAdd": {
+        "NotEnabled": {
+          "en": "Player provided raids arent enabled."
+        },
+        "SeedInvalid": {
+          "en": "Seed is invalid; please try again."
+        },
+        "RaidInvalid": {
+          "en": "Player provided raid is no good."
+        },
+        "RaidLevelNotSupported": {
+          "en": "Raid Level is not supported."
+        }
+      }
+    }
+  }
+}
