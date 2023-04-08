@@ -1,5 +1,31 @@
 ﻿{
   "RaidBot": {
+    "Common": {
+      "Shiny": {
+        "en": "Shiny"
+      },
+      "Tera": {
+        "en": "Tera Type"
+      },
+      "Ability": {
+        "en": "Ability"
+      },
+      "Nature": {
+        "en": "Nature"
+      },
+      "Gender": {
+        "en": "Gender"
+      },
+      "IVs": {
+        "en": "IVs"
+      },
+      "Raid": {
+        "en": "Raid"
+      },
+      "Rewards": {
+        "en": "Rewards"
+      }
+    },
     "Discord": {
       "PlayerRaidAdd": {
         "NotEnabled": {
@@ -13,6 +39,24 @@
         },
         "RaidLevelNotSupported": {
           "en": "Raid Level is not supported."
+        },
+        "DirectMessageSuccess": {
+          "en": "I've added your {0} raid to the queue!\nI'll message you here when your raid is starting."
+        },
+        "DirectMessageError": {
+          "en": "Raider must enable private messages in order to be queued!"
+        },
+        "AlreadyInQueueError": {
+          "en": "Sorry, you are already in the queue."
+        },
+        "AddedTitle": {
+          "en": "{0} - Added to the raid queue{1}."
+        },
+        "CurrentPosition": {
+          "en": "Current Position: {0}."
+        },
+        "EstimatedWait": {
+          "en": "Estimated wait: {0} minutes."
         }
       }
     }
