@@ -81,6 +81,17 @@
         "EstimatedWait": {
           "en": "Estimated wait: {0} minutes."
         }
+      },
+      "RaidNotifier": {
+        "RaidInitialize": {
+          "en": "Initializing raid {0}. Please be ready."
+        },
+        "RaidCancelled": {
+          "en": "Raid canceled: {0}"
+        },
+        "RaidFinished": {
+          "en": "Raid Finished! Seed: {0}"
+        }
       }
     }
   }
