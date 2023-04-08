@@ -1,82 +1,82 @@
-﻿{
+{
   "RaidBot": {
     "Bot": {
       "PlayerRaidStart": {
         "en": "Your raid is about to start",
         "fr": "",
-        "de": ""
+        "de": "Dein raid startet in kürze",
       },
       "PlayerRaidCode": {
         "en": "Your raid code is {0}",
         "fr": "",
-        "de": ""
+        "de": "Dein raid Passwort ist {0}",
       },
       "PlayersDidntMakeIt": {
         "en": "Though our party did not make it :(",
         "fr": "",
-        "de": ""
+        "de": "Unsere Gruppe hat es nicht geschaft :(",
       },
       "RaidStartingEmbedBody": {
         "en": "Raid #{0} is starting!",
         "fr": "",
-        "de": ""
+        "de": "Raid #{0} startet!",
       },
       "RaidCancelledEmbed": {
         "en": "Raid Cancelled [{0}]",
         "fr": "",
-        "de": ""
+        "de": "Raid Abgebrochen [{0}]",
       }
     },
     "Common": {
       "Shiny": {
         "en": "Shiny",
         "fr": "",
-        "de": ""
+        "de": "Shiny",
       },
       "Tera": {
         "en": "Tera Type",
         "fr": "",
-        "de": ""
+        "de": "Tera Typ",
       },
       "Ability": {
         "en": "Ability",
         "fr": "",
-        "de": ""
+        "de": "Fähigkeit",
       },
       "Nature": {
         "en": "Nature",
         "fr": "",
-        "de": ""
+        "de": "Wesen",
       },
       "Gender": {
         "en": "Gender",
         "fr": "",
-        "de": ""
+        "de": "Geschlecht",
       },
       "IVs": {
         "en": "IVs",
         "fr": "",
-        "de": ""
+        "de": "IVs",
       },
       "Raid": {
         "en": "Raid",
         "fr": "",
-        "de": ""
+        "de": "Raid",
       },
       "Rewards": {
         "en": "Rewards",
         "fr": "",
-        "de": ""
+        "de": "Belohnung",
       },
       "Player": {
         "en": "Player",
         "fr": "",
-        "de": ""
+        "de": "Spieler",
       },
       "Stats": {
         "en": "Stats",
         "fr": "",
-        "de": ""
+        "de": "Werte",
       }
     },
     "Discord": {
@@ -84,69 +84,69 @@
         "NotEnabled": {
           "en": "Player provided raids arent enabled.",
           "fr": "",
-          "de": ""
+          "de": "Von Spielern bereitgestellte Raids sind nicht aktiviert",
         },
         "SeedInvalid": {
           "en": "Seed is invalid; please try again.",
           "fr": "",
-          "de": ""
+          "de": "Seed ist ungültig; Bitte versuche es erneut.",
         },
         "RaidInvalid": {
           "en": "Player provided raid is no good.",
           "fr": "",
-          "de": ""
+          "de": "Vom Spieler bereitgestellter Raid ist ungültig",
         },
         "RaidLevelNotSupported": {
           "en": "Raid Level is not supported.",
           "fr": "",
-          "de": ""
+          "de": "Raid Level wird nicht unterstützt",
         },
         "DirectMessageSuccess": {
           "en": "I've added your {0} raid to the queue!\nI'll message you here when your raid is starting.",
           "fr": "",
-          "de": ""
+          "de": "Ich habe deinen {0}-Raid zur Warteschlange hinzugefügt!\nIch werde dich hier benachrichtigen, wenn dein Raid beginnt.",
         },
         "DirectMessageError": {
           "en": "Raider must enable private messages in order to be queued!",
           "fr": "",
-          "de": ""
+          "de": "Raider muss private Nachrichten aktivieren, um in die Warteschlange gestellt zu werden!",
         },
         "AlreadyInQueueError": {
           "en": "Sorry, you are already in the queue.",
           "fr": "",
-          "de": ""
+          "de": "Entschuldigung, Du befindest dich bereits in der Warteschlange.",
         },
         "AddedTitle": {
           "en": "{0} - Added to the raid queue{1}.",
           "fr": "",
-          "de": ""
+          "de": "{0} - Zur Raid-Warteschlange hinzugefügt{1}.",
         },
         "CurrentPosition": {
           "en": "Current Position: {0}.",
           "fr": "",
-          "de": ""
+          "de": "Aktuelle Position: {0}.",
         },
         "EstimatedWait": {
           "en": "Estimated wait: {0} minutes.",
           "fr": "",
-          "de": ""
+          "de": "Geschätzte Wartezeit: {0} minuten.",
         }
       },
       "RaidNotifier": {
         "RaidInitialize": {
           "en": "Initializing raid {0}. Please be ready.",
           "fr": "",
-          "de": ""
+          "de": "Raid wird initialisiert {0}. Bitte sei bereit.",
         },
         "RaidCancelled": {
           "en": "Raid canceled: {0}",
           "fr": "",
-          "de": ""
+          "de": "Raid abgebrochen: {0}",
         },
         "RaidFinished": {
           "en": "Raid Finished! Seed: {0}",
           "fr": "",
-          "de": ""
+          "de": "Raid beendet! ! Seed: {0}",
         }
       }
     }
