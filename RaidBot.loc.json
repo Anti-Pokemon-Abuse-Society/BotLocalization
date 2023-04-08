@@ -2,95 +2,151 @@
   "RaidBot": {
     "Bot": {
       "PlayerRaidStart": {
-        "en": "Your raid is about to start"
+        "en": "Your raid is about to start",
+        "fr": "",
+        "de": ""
       },
       "PlayerRaidCode": {
-        "en": "Your raid code is {0}"
+        "en": "Your raid code is {0}",
+        "fr": "",
+        "de": ""
       },
       "PlayersDidntMakeIt": {
-        "en": "Though our party did not make it :("
+        "en": "Though our party did not make it :(",
+        "fr": "",
+        "de": ""
       },
       "RaidStartingEmbedBody": {
-        "en": "Raid #{0} is starting!"
+        "en": "Raid #{0} is starting!",
+        "fr": "",
+        "de": ""
       },
       "RaidCancelledEmbed": {
-        "en": "Raid Cancelled [{0}]"
+        "en": "Raid Cancelled [{0}]",
+        "fr": "",
+        "de": ""
       }
     },
     "Common": {
       "Shiny": {
-        "en": "Shiny"
+        "en": "Shiny",
+        "fr": "",
+        "de": ""
       },
       "Tera": {
-        "en": "Tera Type"
+        "en": "Tera Type",
+        "fr": "",
+        "de": ""
       },
       "Ability": {
-        "en": "Ability"
+        "en": "Ability",
+        "fr": "",
+        "de": ""
       },
       "Nature": {
-        "en": "Nature"
+        "en": "Nature",
+        "fr": "",
+        "de": ""
       },
       "Gender": {
-        "en": "Gender"
+        "en": "Gender",
+        "fr": "",
+        "de": ""
       },
       "IVs": {
-        "en": "IVs"
+        "en": "IVs",
+        "fr": "",
+        "de": ""
       },
       "Raid": {
-        "en": "Raid"
+        "en": "Raid",
+        "fr": "",
+        "de": ""
       },
       "Rewards": {
-        "en": "Rewards"
+        "en": "Rewards",
+        "fr": "",
+        "de": ""
       },
       "Player": {
-        "en": "Player"
+        "en": "Player",
+        "fr": "",
+        "de": ""
       },
       "Stats": {
-        "en": "Stats"
+        "en": "Stats",
+        "fr": "",
+        "de": ""
       }
     },
     "Discord": {
       "PlayerRaidAdd": {
         "NotEnabled": {
-          "en": "Player provided raids arent enabled."
+          "en": "Player provided raids arent enabled.",
+          "fr": "",
+          "de": ""
         },
         "SeedInvalid": {
-          "en": "Seed is invalid; please try again."
+          "en": "Seed is invalid; please try again.",
+          "fr": "",
+          "de": ""
         },
         "RaidInvalid": {
-          "en": "Player provided raid is no good."
+          "en": "Player provided raid is no good.",
+          "fr": "",
+          "de": ""
         },
         "RaidLevelNotSupported": {
-          "en": "Raid Level is not supported."
+          "en": "Raid Level is not supported.",
+          "fr": "",
+          "de": ""
         },
         "DirectMessageSuccess": {
-          "en": "I've added your {0} raid to the queue!\nI'll message you here when your raid is starting."
+          "en": "I've added your {0} raid to the queue!\nI'll message you here when your raid is starting.",
+          "fr": "",
+          "de": ""
         },
         "DirectMessageError": {
-          "en": "Raider must enable private messages in order to be queued!"
+          "en": "Raider must enable private messages in order to be queued!",
+          "fr": "",
+          "de": ""
         },
         "AlreadyInQueueError": {
-          "en": "Sorry, you are already in the queue."
+          "en": "Sorry, you are already in the queue.",
+          "fr": "",
+          "de": ""
         },
         "AddedTitle": {
-          "en": "{0} - Added to the raid queue{1}."
+          "en": "{0} - Added to the raid queue{1}.",
+          "fr": "",
+          "de": ""
         },
         "CurrentPosition": {
-          "en": "Current Position: {0}."
+          "en": "Current Position: {0}.",
+          "fr": "",
+          "de": ""
         },
         "EstimatedWait": {
-          "en": "Estimated wait: {0} minutes."
+          "en": "Estimated wait: {0} minutes.",
+          "fr": "",
+          "de": ""
         }
       },
       "RaidNotifier": {
         "RaidInitialize": {
-          "en": "Initializing raid {0}. Please be ready."
+          "en": "Initializing raid {0}. Please be ready.",
+          "fr": "",
+          "de": ""
         },
         "RaidCancelled": {
-          "en": "Raid canceled: {0}"
+          "en": "Raid canceled: {0}",
+          "fr": "",
+          "de": ""
         },
         "RaidFinished": {
-          "en": "Raid Finished! Seed: {0}"
+          "en": "Raid Finished! Seed: {0}",
+          "fr": "",
+          "de": ""
         }
       }
     }
