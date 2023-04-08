@@ -1,5 +1,22 @@
 ﻿{
   "RaidBot": {
+    "Bot": {
+      "PlayerRaidStart": {
+        "en": "Your raid is about to start"
+      },
+      "PlayerRaidCode": {
+        "en": "Your raid code is {0}"
+      },
+      "PlayersDidntMakeIt": {
+        "en": "Though our party did not make it :("
+      },
+      "RaidStartingEmbedBody": {
+        "en": "Raid #{0} is starting!"
+      },
+      "RaidCancelledEmbed": {
+        "en": "Raid Cancelled [{0}]"
+      }
+    },
     "Common": {
       "Shiny": {
         "en": "Shiny"
@@ -24,6 +41,12 @@
       },
       "Rewards": {
         "en": "Rewards"
+      },
+      "Player": {
+        "en": "Player"
+      },
+      "Stats": {
+        "en": "Stats"
       }
     },
     "Discord": {
